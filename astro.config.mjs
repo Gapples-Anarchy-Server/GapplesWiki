@@ -6,7 +6,7 @@ export default defineConfig({
 		starlight({
 			title: 'Skyblock Wiki',
 			social: {
-				github: 'https://github.com/Plumbiller/Skyblock',
+				github: 'https://github.com/Gapples-Anarchy-Server/GapplesWiki',
 			},
 			sidebar: [
 				{
