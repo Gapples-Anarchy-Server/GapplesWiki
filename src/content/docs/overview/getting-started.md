@@ -1,6 +1,6 @@
 ---
-title: Why is Gapples.org Anarchy server closed?
-description: Why is Gapples.org Anarchy server closed?
+title: Getting Started
+description: Server context and getting started guide.
 ---
 
 What happened to Gapples? Well, well, well... It's been a while since I last heard about Gapples. No website, no discord server... It's like it never existed. 
@@ -13,6 +13,7 @@ So for now, I am only hosting the lobby server (AKA Skyblock) on my own Raspberr
 
 So yeah, 
 The Gapples Anarchy server is indefinitely closed, but if you are a Skyblock enthusiast like me, whalecum back to Gapples. 
+
 Keep reading the wiki if you want to learn about the how the Skyblock plugin works, and please don't expect the server to be as fast as it was when it was hosted on a dedicated server, I mean, it's a Raspberry Pi, what do you expect? It will lag with more than 5 players so don't be too annoying pls.
 
 I hope U enjoy playing Gapples as much as I do making it, as always.
@@ -20,3 +21,11 @@ I hope U enjoy playing Gapples as much as I do making it, as always.
 Best regards from the Nether,
 
 Plumbiller. <3
+
+---
+
+## Technical Guides
+
+- [Island System](/overview/island-system/) - Mathematical grid allocation, boundary limits, and height enforcement.
+- [Biome Grid](/overview/biome-grid/) - Dynamic sub-grid biome distribution per island.
+- [Player Commands](/commands/player-commands/) - Complete command reference for players.

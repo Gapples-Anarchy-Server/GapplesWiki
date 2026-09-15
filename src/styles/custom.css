@@ -1,0 +1,49 @@
+/* Custom styling for documentation images */
+.sl-markdown-content img {
+  max-width: 280px;
+  max-height: 400px;
+  width: auto;
+  height: auto;
+  border-radius: 8px;
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.4);
+  margin: 1.5rem auto;
+  display: block;
+}
+
+/* Container for displaying mob spawn cards side by side */
+.mob-gallery {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.5rem;
+  justify-content: center;
+  align-items: flex-end;
+  margin: 2rem 0;
+}
+
+.mob-gallery > * {
+  margin: 0;
+  text-align: center;
+}
+
+/* All images in mob-gallery must have identical height, with width auto-scaling */
+.mob-gallery img,
+.mob-gallery p img {
+  height: 260px !important;
+  max-height: 260px !important;
+  width: auto !important;
+  max-width: 100% !important;
+  object-fit: contain;
+  margin: 0 auto 0.5rem auto;
+}
+
+/* Table layout enhancements */
+.sl-markdown-content table {
+  display: table;
+  width: 100%;
+  margin: 1.5rem 0;
+}
+
+.sl-markdown-content td code,
+.sl-markdown-content th code {
+  white-space: nowrap;
+}

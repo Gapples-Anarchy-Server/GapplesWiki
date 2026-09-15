@@ -5,6 +5,9 @@ export default defineConfig({
 	integrations: [
 		starlight({
 			title: 'Skyblock Wiki',
+			customCss: [
+				'./src/styles/custom.css',
+			],
 			social: {
 				github: 'https://github.com/Plumbiller/Skyblock',
 			},
