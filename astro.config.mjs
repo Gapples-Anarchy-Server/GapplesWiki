@@ -9,7 +9,7 @@ export default defineConfig({
 				'./src/styles/custom.css',
 			],
 			social: {
-				github: 'https://github.com/Plumbiller/Skyblock',
+				github: 'https://github.com/Gapples-Anarchy-Server/GapplesWiki',
 			},
 			sidebar: [
 				{
