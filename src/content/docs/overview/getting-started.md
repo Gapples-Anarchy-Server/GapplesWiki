@@ -26,6 +26,6 @@ Plumbiller. <3
 
 ## Technical Guides
 
-- [Island System](/overview/island-system/) - Mathematical grid allocation, boundary limits, and height enforcement.
-- [Biome Grid](/overview/biome-grid/) - Dynamic sub-grid biome distribution per island.
-- [Player Commands](/commands/player-commands/) - Complete command reference for players.
+- [World Generation](/world-generation/overview/)
+- [Commands](/commands/player-commands/)
+- [Features](/features/overview/)

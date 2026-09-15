@@ -58,9 +58,9 @@ Players are assigned to grid cells in this spiral pattern:
 
 ## Single Grid Cell Detail
 
-```
-    Example: Grid (0, 0) - Plumbiller's Island
-    
+**Example: Grid (0, 0) - Plumbiller's Island**
+
+```    
     Z-axis
       ↑
    1000 ┌─────────────────────────────────┐

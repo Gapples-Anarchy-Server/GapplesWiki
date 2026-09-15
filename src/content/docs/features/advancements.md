@@ -35,5 +35,5 @@ Skyblock features custom advancement trees that track progress across mining, cr
 
 Hidden advancements do not appear in the advancements UI until unlocked. Achieving any hidden advancement unlocks the `Hidden advancements` tab.
 
-- **THERE'S NO FUCKING WAY**: Obtain Bedrock. For more information on how to obtain bedrock check [Custom Loot Tables](../custom-loot-tables).
+- **THERE'S NO FUCKING WAY**: Obtain Bedrock. For more information on how to obtain bedrock check [Custom Loot Tables](/features/custom-loot-tables/).
 - **Renewable sand!**: Kill Husk mob.

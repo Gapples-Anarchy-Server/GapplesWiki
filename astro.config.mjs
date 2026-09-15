@@ -17,16 +17,16 @@ export default defineConfig({
 					autogenerate: { directory: 'overview' },
 				},
 				{
+					label: 'World Generation',
+					autogenerate: { directory: 'world-generation' },
+				},
+				{
 					label: 'Features',
 					autogenerate: { directory: 'features' },
 				},
 				{
 					label: 'Commands',
 					autogenerate: { directory: 'commands' },
-				},
-				{
-					label: 'Configuration',
-					autogenerate: { directory: 'configuration' },
 				},
 			],
 		}),
